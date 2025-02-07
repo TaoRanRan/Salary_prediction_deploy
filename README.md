@@ -1,6 +1,6 @@
 # 💰 LightGBM Salary Prediction Model Deployed Using GitHub Actions
 
-Welcome to the **Salary Prediction Model** repository! This project is to predicting salaries in Data Science fields based on various factors like experience, geography, job role, and more. 
+Welcome to the **Salary Prediction Model** repository! This project is to predict salaries in Data Science fields based on various factors like experience, geography, job role, and more. 
 
 ---
 
@@ -24,7 +24,7 @@ It contains 11 columns and here's what each column represents:
 | `company_size`        | The median number of people that worked for the company during the year.    |
 
 ## Model
-The project uses **LightGBM regression**. The training detail is saved under folder 202502_Salary_model_deploy in my [Jupyter notebook collection](https://github.com/TaoRanRan/JupyterGalaxy.git)
+The project uses **LightGBM regression**. The training detail is saved under folder **202502_Salary_model_deploy** in my [Jupyter notebook collection](https://github.com/TaoRanRan/JupyterGalaxy.git)
 
 ### Why LightGBM?
 - Faster training speed and lower memory usage
