@@ -6,5 +6,5 @@ plotly==6.0.0
 joblib==1.4.2
 scikit-learn==1.6.1
 numpy==2.1.0
-lightgbm==3.2.0
+lightgbm==4.5.0
 shap==0.46.0
