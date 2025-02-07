@@ -22,7 +22,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Execute Python script
-        run: python score.py  # Ensure score.py is in the repo
+        run: python predict.py  
 
       - name: Commit files if changes exist
         run: |
